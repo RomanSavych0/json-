@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "distributor": {
+        "id": "1",
+        "title": "North America",
+        "places": [
+          {
+            "id": "1",
+            "image": "/typo3conf/ext/mmsitepackage/Resources/Public/Icons/Flags/US.png",
+            "title": "place1",
+            "fullName": "Mr. Enrique Campino",
+            "location": "Wellford Chile S.A.",
+            "address": "Camino lo Infante Ni 1571",
+            "position": "Managing Director",
+            "attributes": [
+              {
+                "id": "1",
+                "title": "fa-tint"
+              },
+              {
+                "id": "2",
+                "title": "fa-vial"
+              },
+              {
+                "id": "3",
+                "title": "fa-snowplow"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "image": "/typo3conf/ext/mmsitepackage/Resources/Public/Icons/Flags/CA.png",
+            "title": "Smith Cameron Pump Solutions",
+            "fullName": "C. Cristurean",
+            "location": "Langley BC V1M 2X5, Canada",
+            "address": "Camino lo Infante Ni 1571",
+            "position": "Managing Director",
+            "attributes": [
+              {
+                "id": "4",
+                "title": "fa-tools"
+              },
+              {
+                "id": "5",
+                "title": "fa-industry"
+              },
+              {
+                "id": "6",
+                "title": "fa-snowplow"
+              }
+            ]
+          }
+        ]
+      },
+      "distributor2": {
+        "id": "2",
+        "title": "South America",
+        "places": [
+          {
+            "id": "1",
+            "image": "/typo3conf/ext/mmsitepackage/Resources/Public/Icons/Flags/CL.png",
+            "title": "place1",
+            "fullName": "Mr. Enrique Campino",
+            "location": "Wellford Chile S.A.",
+            "address": "Camino lo Infante Ni 1571",
+            "position": "Managing Director",
+            "attributes": [
+              {
+                "id": "1",
+                "title": "fa-tint"
+              },
+              {
+                "id": "2",
+                "title": "fa-vial"
+              },
+
+              {
+                "id": "3",
+                "title": "fa-snowplow"
+              }
+            ]
+          },
+
+          {
+            "id": "2",
+            "image": "/typo3conf/ext/mmsitepackage/Resources/Public/Icons/Flags/PE.png",
+            "title": "Smith Cameron Pump Solutions",
+            "fullName": "C. Cristurean",
+            "location": "Langley BC V1M 2X5, Canada",
+            "address": "Camino lo Infante Ni 1571",
+            "position": "Managing Director",
+            "attributes": [
+              {
+                "id": "4",
+                "title": "fa-tools"
+              },
+              {
+                "id": "5",
+                "title": "fa-industry"
+              },
+              {
+                "id": "6",
+                "title": "fa-snowplow"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
